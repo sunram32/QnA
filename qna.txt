@@ -1,0 +1,164 @@
+Q1: Why is my computer taking so long to start up?
+Solutions:
+1. Check for pending Windows updates.
+2. Disable startup programs.
+3. Run a disk cleanup.
+4. Defragment your hard drive.
+5. Reinstall Windows.
+
+Q2: Why is the display on my computer screen distorted?
+Solutions:
+1. Check the cable connection. Make sure that the cable connecting your computer to the monitor is securely plugged in on both ends.
+2. Try a different cable. If you have another compatible cable, try using that instead.
+3. Restart your computer. Sometimes a simple restart can fix a variety of problems.
+4. Update your graphics card drivers. If you have a dedicated graphics card, make sure that you have the latest drivers installed.
+5. Reinstall your graphics card drivers. If updating the drivers doesn't work, try reinstalling them.
+6. Contact your company's tech support. If none of the above solutions work, contact your company's tech support for further assistance.
+
+Q3: Why is Microsoft Teams not opening on my computer?
+Solutions:
+1. Restart your computer.
+2. Check your internet connection.
+3. Reinstall Microsoft Teams.
+4. Make sure you have the latest version of Microsoft Teams.
+5. Contact your company's tech support.
+
+Q4: Why have my laptops been experiencing decreased performance?
+Solutions:
+1. Check for and remove any unnecessary programs running in the background.
+2. Update your laptop's operating system and drivers.
+3. Run a disk cleanup and defragmentation.
+4. Free up space on your hard drive.
+5. Upgrade your RAM.
+6. Consider replacing your hard drive with an SSD.
+
+Q5: Why is Excel lagging and what can I do to fix it?
+Solutions:
+1. Reduce the number of open workbooks.
+2. Free up RAM by closing other programs.
+3. Update your graphics card driver.
+4. Disable hardware acceleration.
+5. Reinstall Excel.
+
+Q6: Why won't my personal computer turn on?
+Solutions:
+1. Check that the power cord is plugged in and turned on.
+2. Press the power button on the computer.
+3. Check that the power button is not stuck.
+4. Try a different power outlet.
+5. Reset the computer's BIOS.
+6. Check for any hardware issues.
+7. Contact technical support.
+
+Q7: Why was the common login ID for the Buyers' Nite Event disabled?
+Solutions:
+1. Check if the event has ended.
+2. Check if the login ID has been blacklisted.
+3. Try resetting your password.
+4. Contact the event organizer for assistance.
+
+Q8: how can i change my background?
+Solutions:
+1. Right-click on the desktop and select Personalize.
+2. Click Background.
+3. Select Browse and choose a new image.
+4. Click Set as background.
+
+Q9: Why can't I log in?
+Solutions:
+1. Check your username and password. Make sure you are entering them correctly.
+2. Try resetting your password. You can do this through the company's website or by contacting your IT department.
+3. Make sure you are using the correct browser. The company may require you to use a specific browser to log in.
+4. Check your internet connection. Make sure you are connected to the internet and that your connection is stable.
+5. Try logging in from a different device. If you are unable to log in from your computer, try logging in from a different device, such as a smartphone or tablet.
+6. Contact your IT department. If you have tried all of the above solutions and you are still unable to log in, contact your IT department for assistance.
+
+Q10: How can I unlock my Windows account if I'm locked out?
+Solutions:
+1. Try your password again. Sometimes you may just mistype your password.
+2. Use your Microsoft account password. If you have a Microsoft account associated with your Windows account, you can use that password to unlock your account.
+3. Reset your password. If you can't remember your password, you can reset it by following these steps:
+     Go to the Sign-in screen.
+     Click Forgot your password?.
+     Enter your Microsoft account email address.
+     Follow the instructions to reset your password.
+4. Contact your company's tech support. If you're still unable to unlock your account, contact your company's tech support for help.
+
+Q11: How can I verify that my LED monitor, HDMI cable, and connector are functioning properly?
+Solutions:
+1. Check that the monitor is turned on and the power cord is plugged in.
+2. Try a different HDMI cable.
+3. Try a different HDMI port on the monitor and/or computer.
+4. Make sure the resolution and refresh rate of the monitor are set correctly.
+
+Q12: Why is the WiFi at SGSS so spotty?
+Solutions:
+1. Move closer to the router.
+2. Try connecting to a different network band (2.4GHz or 5GHz).
+3. Make sure your device is up to date with the latest software.
+4. Restart your device.
+5. Turn off your device's Wi-Fi and Bluetooth, then turn them back on.
+6. Forget the network and reconnect.
+7. Contact IT support.
+
+Q13: Why is the spare laptop in the M&S office lagging and freezing?
+Solutions:
+1. Restart the laptop.
+2. Update the laptop's operating system.
+3. Update the laptop's drivers.
+4. Uninstall any unnecessary programs.
+5. Run a disk cleanup.
+6. Run a virus scan.
+
+Q14: Why can't my device be powered on?
+Solutions:
+1. Check the power cable. Is it plugged in securely to the device and to the outlet?
+2. Try a different outlet. If the outlet is not working, try plugging the device into a different one.
+3. Press and hold the power button for 10 seconds. This will reset the device and may fix the issue.
+4. Check the device's battery. If the battery is low, charge it for at least 30 minutes and then try turning it on again.
+5. Contact your company's tech support. If you have tried all of the above solutions and the device still won't turn on, contact your company's tech support for further assistance.
+
+Q15: Why is my laptop so slow?
+Solutions:
+1. Restart your laptop.
+2. Update your laptop's operating system and software.
+3. Free up disk space by deleting unnecessary files and programs.
+4. Close unused programs and browser tabs.
+5. Run a disk cleanup and defragmentation utility.
+6. Check for and remove malware.
+7. Update your graphics card driver.
+8. Upgrade your RAM.
+
+Q16: Why does my laptop hang when I put it into sleep mode and cannot be turned back on?
+Solutions:
+1. Update your laptop's operating system.
+2. Disable Fast Startup.
+3. Update your laptop's drivers.
+4. Run a system scan for malware.
+5. Reset your laptop's BIOS.
+6. Contact your laptop manufacturer's technical support.
+
+Q17: Why am I having issues with 3D on my PC?
+Solutions:
+1. Check if your graphics card driver is up to date.
+2. Make sure your PC meets the minimum requirements for 3D graphics.
+3. Try disabling hardware acceleration in your browser.
+4. Reinstall the 3D software you're using.
+5. Contact your company's tech support for further assistance.
+
+Q18: Why does my device have limited functionality?
+Solutions:
+1. Check for software updates.
+2. Restart your device.
+3. Reboot your router.
+4. Uninstall and reinstall the app.
+5. Contact your company's tech support.
+
+Q19: Why does my laptop screen keep turning on and off?
+Solutions:
+1. Check if the laptop is overheating. (Unplug the laptop and let it cool down for 30 minutes.)
+2. Update the laptop's display driver. (Go to Device Manager and update the display driver.)
+3. Disable the Fast Startup feature. (Go to Power Options and disable Fast Startup.)
+4. Reset the laptop's BIOS. (Turn off the laptop and hold down the Power button for 10 seconds.)
+5. Contact the company's tech support.
+
